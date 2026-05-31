@@ -1,0 +1,87 @@
+module,color,name,cost,cost_icon,hide_cost,second_cost,second_cost_icon,hide_second_cost,tray_height
+Cornucopia,white,Diseuse de bonne aventure,3,Coin,false,0,Coin,true,5
+Base_Game,blue,Douves,2,Coin,false,0,Coin,true,5
+Base_Game,white,Atelier,3,Coin,false,0,Coin,true,5
+Base_Game,white,Aventurier,6,Coin,false,0,Coin,true,5
+Base_Game,white,Bibliothèque,5,Coin,false,0,Coin,true,5
+Base_Game,white,Bûcheron,3,Coin,false,0,Coin,true,5
+Base_Game,white,Bureaucrate,4,Coin,false,0,Coin,true,5
+Base_Game,white,Cave,2,Coin,false,0,Coin,true,5
+Base_Game,white,Chambre du conseil,5,Coin,false,0,Coin,true,5
+Base_Game,white,Chancellier,3,Coin,false,0,Coin,true,5
+Base_Game,white,Chapelle,2,Coin,false,0,Coin,true,5
+Base_Game,white,Espion,4,Coin,false,0,Coin,true,5
+Base_Game,white,Festin,4,Coin,false,0,Coin,true,5
+Base_Game,white,Festival,5,Coin,false,0,Coin,true,5
+Base_Game,white,Forgeron,4,Coin,false,0,Coin,true,5
+Base_Game,white,Laboratoire,5,Coin,false,0,Coin,true,5
+Base_Game,white,Marché,5,Coin,false,0,Coin,true,5
+Base_Game,white,Milice,4,Coin,false,0,Coin,true,5
+Base_Game,white,Mine,5,Coin,false,0,Coin,true,5
+Base_Game,white,Prêteur sur gages,4,Coin,false,0,Coin,true,5
+Base_Game,white,Rénovation,4,Coin,false,0,Coin,true,5
+Base_Game,white,Salle du Trône,4,Coin,false,0,Coin,true,5
+Base_Game,white,Sorcière,5,Coin,false,0,Coin,true,5
+Base_Game,white,Village,3,Coin,false,0,Coin,true,5
+Base_Game,white,Voleur,4,Coin,false,0,Coin,true,5
+Base_Game,green,Jardin,4,Coin,false,0,Coin,true,5
+Base_Game,yellow,Cuivre,0,Coin,false,0,Coin,true,22
+Base_Game,yellow,Argent,3,Coin,false,0,Coin,true,16
+Base_Game,yellow,Or,6,Coin,false,0,Coin,true,12
+Base_Game,green,Duché,5,Coin,false,0,Coin,true,8
+Base_Game,green,Domaine,2,Coin,false,0,Coin,true,12
+Base_Game,green,Province,8,Coin,false,0,Coin,true,8
+Base_Game,purple,Malédiction,0,Coin,false,0,Coin,true,12
+Cornucopia,yellow,Corne d'abondance,5,Coin,false,0,Coin,true,5
+Cornucopia,blue,Maquignons,4,Coin,false,0,Coin,true,5
+Cornucopia,white,Récolte,5,Coin,false,0,Coin,true,5
+Cornucopia,white,Chasseurs,5,Coin,false,0,Coin,true,5
+Cornucopia,white,Bouffon,5,Coin,false,0,Coin,true,5
+Cornucopia,white,Ménagerie,3,Coin,false,0,Coin,true,5
+Cornucopia,white,Renouvellement,4,Coin,false,0,Coin,true,5
+Cornucopia,white,Tournoi,4,Coin,false,0,Coin,true,5
+Cornucopia,green,Champ de foire,6,Coin,false,0,Coin,true,5
+Cornucopia,white,Jeune sorcière,4,Coin,false,0,Coin,true,5
+Cornucopia,white,Hameau,2,Coin,false,0,Coin,true,5
+Cornucopia,white,Village agricole,4,Coin,false,0,Coin,true,5
+Cornucopia,yellow,Prix,0,Coin,true,0,Coin,true,5
+Alchemy,white,Alchimiste,3,Coin,false,0,Coin,true,5
+Alchemy,white,Apothicaire,2,Coin,false,0,Coin,true,5
+Alchemy,white,Apprenti,5,Coin,false,0,Coin,true,5
+Alchemy,white,Bassin divinatoire,2,Coin,false,0,Coin,true,5
+Alchemy,white,Familier,3,Coin,false,0,Coin,true,5
+Alchemy,white,Golem,4,Coin,false,0,Coin,true,5
+Alchemy,white,Herboriste,2,Coin,false,0,Coin,true,5
+Alchemy,white,Possession,6,Coin,false,0,Coin,true,5
+Alchemy,white,Transmutation,0,Coin,false,0,Coin,true,5
+Alchemy,white,Université,2,Coin,false,0,Coin,true,5
+Alchemy,yellow,Pierre philosophale,3,Coin,false,0,Coin,true,5
+Alchemy,yellow,Potion,4,Coin,false,0,Coin,true,8
+Alchemy,green,Vignoble,0,Coin,false,0,Coin,true,5
+Intrigue,white,Baron,4,Coin,false,0,Coin,true,5
+Intrigue,white,Bourreau,5,Coin,false,0,Coin,true,5
+Intrigue,white,Chaudronnier,4,Coin,false,0,Coin,true,5
+Intrigue,white,Comptoir,5,Coin,false,0,Coin,true,5
+Intrigue,white,Conspirateur,4,Coin,false,0,Coin,true,5
+Intrigue,white,Cour,2,Coin,false,0,Coin,true,5
+Intrigue,white,Éclaireur,4,Coin,false,0,Coin,true,5
+Intrigue,white,Escroc,3,Coin,false,0,Coin,true,5
+Intrigue,white,Fonderie,4,Coin,false,0,Coin,true,5
+Intrigue,white,Hommage,5,Coin,false,0,Coin,true,5
+Intrigue,white,Intendant,3,Coin,false,0,Coin,true,5
+Intrigue,white,Larbin,5,Coin,false,0,Coin,true,5
+Intrigue,white,Mascarade,3,Coin,false,0,Coin,true,5
+Intrigue,white,Mise à niveau,5,Coin,false,0,Coin,true,5
+Intrigue,white,Pion,2,Coin,false,0,Coin,true,5
+Intrigue,white,Pont,4,Coin,false,0,Coin,true,5
+Intrigue,white,Puits aux souhaits,3,Coin,false,0,Coin,true,5
+Intrigue,white,Saboteur,5,Coin,false,0,Coin,true,5
+Intrigue,white,Taudis,3,Coin,false,0,Coin,true,5
+Intrigue,white,Village Minier,4,Coin,false,0,Coin,true,5
+Intrigue,blue,Chambre secrète,2,Coin,false,0,Coin,true,5
+Intrigue,white-green,Grand hall,3,Coin,false,0,Coin,true,5
+Intrigue,white-green,Nobles,6,Coin,false,0,Coin,true,5
+Intrigue,yellow-green,Harem,6,Coin,false,0,Coin,true,5
+Intrigue,green,Duc,5,Coin,false,0,Coin,true,5
+,,,,,,,,,
+,,,,,,,,,

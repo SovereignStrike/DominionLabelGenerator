@@ -1,0 +1,9 @@
+Expansion = "Base_Game"; 
+Card_Name = "Atelier"; 
+Cost = 3; 
+Cost_Icon = "Coin"; 
+Hide_Cost = false; 
+Second_Cost = 0; 
+Second_Cost_Icon = "Coin"; 
+Hide_Second_Cost = true; 
+Tray_Height = 5; 
