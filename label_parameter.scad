@@ -29,8 +29,7 @@ module base(){
  //Load STL
 
 STL =  (Tray_Height == 5)   ? "stl/label_5.stl" :
-       (Tray_Height == 8)   ? "stl/label_8.stl" :
-       (Tray_Height == 10)  ? "stl/label_10.stl" :      
+       (Tray_Height == 8)   ? "stl/label_8.stl" :      
        (Tray_Height == 12)  ? "stl/label_12.stl" :      
        (Tray_Height == 16)  ? "stl/label_16.stl" :      
        (Tray_Height == 22)  ? "stl/label_22.stl":
